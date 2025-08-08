@@ -35,27 +35,3 @@ puzzles you are good at, and have it reccomend puzzles to you that will
 encourage the most growth. Perhapse difficult puzzles get presented to you at a
 higher frequency than easier puzzles.
 
--------------------------------------------------------------------------------
-
-Current State: 30/12/23
-
-The project is just beginning, and I have only the ideas in my head.
-
-This project is actually both for personal use and to practice the skills
-needed to create a useful devops tool for work. The idea is to suprise my boss
-and the other devs with an amazing tol for composing and setting up our
-software projects which is really cumbersome and tedious at the time being.
-
-Keeping the above in mind I want the structure of the project to be a python
-project that utilizes bash to do file management and scripting tasks. Then
-there will be a tkinter frontend that will help tie things together and make it
-usable. But one of the goals of this project is support commandline usage so it
-can be incorporated in other projects and able to be controlled through scripts
-for automaiton.
-
-I think it is important to build commandline first applications because it
-makes it easy to reuse and incorporate parts of your software in new
-applications without having to rewrite code - just reuse features and
-sub-programs.
-
--------------------------------------------------------------------------------
